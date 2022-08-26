@@ -1,2 +1,1 @@
-## Web Developer
-### Laravel, Puppeteer, VueJS e TailwindCSS
+## Front-end Developer | ReactJS | TypeScript
